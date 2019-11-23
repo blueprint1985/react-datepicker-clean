@@ -1,0 +1,28 @@
+export const lang = {
+  language: 'Polish',
+  code: 'pl',
+  weekdayNames: [
+    'Ndz',
+    'Pon',
+    'Wt',
+    'Śr',
+    'Czw',
+    'Pt',
+    'Sob',
+  ],
+  monthNames: [
+    'Styczeń',
+    'Luty',
+    'Marzec',
+    'Kwiecień',
+    'Maj',
+    'Czerwiec',
+    'Lipiec',
+    'Sierpień',
+    'Wrzesień',
+    'Październik',
+    'Listopad',
+    'Grudzień',
+  ],
+  week: 'Tydzień',
+}

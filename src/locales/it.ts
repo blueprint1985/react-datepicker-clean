@@ -1,0 +1,28 @@
+export const lang = {
+  language: 'Italian',
+  code: 'it',
+  weekdayNames: [
+    'Dom',
+    'Lun',
+    'Mar',
+    'Mer',
+    'Gio',
+    'Ven',
+    'Sab',
+  ],
+  monthNames: [
+    'Gennaio',
+    'Febbraio',
+    'Marzo',
+    'Aprile',
+    'Maggio',
+    'Giugno',
+    'Luglio',
+    'Agosto',
+    'Settembre',
+    'Ottobre',
+    'Novembre',
+    'Dicembre',
+  ],
+  week: 'Settimana',
+}

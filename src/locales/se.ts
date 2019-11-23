@@ -1,0 +1,28 @@
+export const lang = {
+  language: 'Sami (Northern)',
+  code: 'se',
+  weekdayNames: [
+    'Sotn',
+    'Vuos',
+    'Maŋ',
+    'Gask',
+    'Duor',
+    'Bear',
+    'Láv',
+  ],
+  monthNames: [
+    'Ođđajagemánnu',
+    'Guovvamánnu',
+    'Njukčamánnu',
+    'Cuoŋománnu',
+    'Miessemánnu',
+    'Geassemánnu',
+    'Suoidnemánnu',
+    'Borgemánnu',
+    'Čakčamánnu',
+    'Golggotmánnu',
+    'Skábmamánnu',
+    'Juovlamánnu',
+  ],
+  week: 'Vahkku',
+}

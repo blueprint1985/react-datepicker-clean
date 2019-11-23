@@ -1,0 +1,28 @@
+export const lang = {
+  language: 'Hungarian',
+  code: 'hu',
+  weekdayNames: [
+    'Vas',
+    'Hét',
+    'Kedd',
+    'Sze',
+    'Csüt',
+    'Pén',
+    'Szo',
+  ],
+  monthNames: [
+    'Január',
+    'Február',
+    'Március',
+    'Április',
+    'Május',
+    'Június',
+    'Július',
+    'Augusztus',
+    'Szeptember',
+    'Október',
+    'November',
+    'December',
+  ],
+  week: 'Hét',
+}

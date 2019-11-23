@@ -1,0 +1,28 @@
+export const lang = {
+  language: 'Estonian',
+  code: 'et',
+  weekdayNames: [
+    'P',
+    'E',
+    'T',
+    'K',
+    'N',
+    'R',
+    'L',
+  ],
+  monthNames: [
+    'Jaanuar',
+    'Veebruar',
+    'Märts',
+    'Aprill',
+    'Mai',
+    'Juuni',
+    'Juuli',
+    'August',
+    'September',
+    'Oktoober',
+    'November',
+    'Detsember',
+  ],
+  week: 'Nädal',
+}

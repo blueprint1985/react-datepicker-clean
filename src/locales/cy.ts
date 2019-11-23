@@ -1,0 +1,28 @@
+export const lang = {
+  language: 'Welsh',
+  code: 'cy',
+  weekdayNames: [
+    'Sul',
+    'Llun',
+    'Maw',
+    'Mer',
+    'Iau',
+    'Gwe',
+    'Sad',
+  ],
+  monthNames: [
+    'Ionawr',
+    'Chwefror',
+    'Mawrth',
+    'Ebrill',
+    'Mai',
+    'Mehefin',
+    'Gorffennaf',
+    'Awst',
+    'Medi',
+    'Hydref',
+    'Tachwedd',
+    'Rhagfyr',
+  ],
+  week: 'Wythnos',
+}

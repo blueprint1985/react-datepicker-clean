@@ -1,0 +1,28 @@
+export const lang = {
+  language: 'French',
+  code: 'fr',
+  weekdayNames: [
+    'Dim.',
+    'Lun.',
+    'Mar.',
+    'Mer.',
+    'Jeu.',
+    'Ven.',
+    'Sam.',
+  ],
+  monthNames: [
+    'Janvier',
+    'Février',
+    'Mars',
+    'Avril',
+    'Mai',
+    'Juin',
+    'Juillet',
+    'Août',
+    'Septembre',
+    'Octobre',
+    'Novembre',
+    'Décembre',
+  ],
+  week: 'La Semaine',
+}

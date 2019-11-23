@@ -1,0 +1,28 @@
+export const lang = {
+  language: 'Romanian',
+  code: 'ro',
+  weekdayNames: [
+    'Dum',
+    'Lun',
+    'Mar',
+    'Mie',
+    'Joi',
+    'Vin',
+    'Sâm',
+  ],
+  monthNames: [
+    'Ianuarie',
+    'Februarie',
+    'Martie',
+    'Aprilie',
+    'Mai',
+    'Iunie',
+    'Iulie',
+    'August',
+    'Septembrie',
+    'Octombrie',
+    'Noiembrie',
+    'Decembrie',
+  ],
+  week: 'Săptămână',
+}

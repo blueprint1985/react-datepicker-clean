@@ -1,0 +1,28 @@
+export const lang = {
+  language: 'Tagalog',
+  code: 'tl',
+  weekdayNames: [
+    'Lin',
+    'Lun',
+    'Mar',
+    'Miy',
+    'Huw',
+    'Biy',
+    'Sab',
+  ],
+  monthNames: [
+    'Enero',
+    'Pebrero',
+    'Marso',
+    'Abril',
+    'Mayo',
+    'Hunyo',
+    'Hulyo',
+    'Agosto',
+    'Setyembre',
+    'Oktubre',
+    'Nobyembre',
+    'Disyembre',
+  ],
+  week: 'Linggo',
+}

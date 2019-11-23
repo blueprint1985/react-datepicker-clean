@@ -1,0 +1,28 @@
+export const lang = {
+  language: 'Breton',
+  code: 'br',
+  weekdayNames: [
+    'Sul',
+    'Lun',
+    'Meu',
+    'Mer',
+    'Yao',
+    'Gwe',
+    'Sad',
+  ],
+  monthNames: [
+    'Genver',
+    'C\'hwevrer',
+    'Meurzh',
+    'Ebrel',
+    'Mae',
+    'Mezheven',
+    'Gouere',
+    'Eost',
+    'Gwengolo',
+    'Here',
+    'Du',
+    'Kerzu',
+  ],
+  week: 'Sizhun',
+}
