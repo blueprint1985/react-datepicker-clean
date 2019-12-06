@@ -10,10 +10,6 @@ rm -rf ../helpers
 rm -rf ../index.d.ts
 rm -rf ../index.js
 
-echo "Running npm install"
-
-npm install
-
 echo "Running TS Compiler"
 
 tsc
