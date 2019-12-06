@@ -5,7 +5,7 @@ import { translations } from '../locales/i18n';
 import { WeekDaysModel } from '../models/week-days';
 import Utils from '../helpers/utils';
 
-import './styles/grid-header.css';
+import '../styles/grid-header.css';
 
 interface GridHeaderProps {
   weekStart: WeekDaysModel;

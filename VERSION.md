@@ -1,3 +1,6 @@
+## Version 2.2.1
+- FIX: Fix styles files inclusion path.
+
 ## Version 2.2.0
 - CHANGED: Rewrite code base.
 - FIX: Index file location.

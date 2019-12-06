@@ -4,7 +4,7 @@ import LocaleModel from '../models/locale';
 import { translations } from '../locales/i18n';
 import Utils from '../helpers/utils';
 
-import './styles/calendar-header.css';
+import '../styles/calendar-header.css';
 
 interface CalendarHeaderProps {
   stepMonth: Function;
