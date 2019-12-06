@@ -8,14 +8,14 @@ Install it from [npm](https://github.com/npm/cli) and include it in your React b
 ```sh
 npm install --save react-datepicker-clean
 ```
-**Note** that [React](https://reactjs.org/) is needed in the project for this component to work and must be installed separatyely since it is not included in the package.
+**Note** that [React](https://reactjs.org/) is needed in the project for this component to work and must be installed separately since it is not included in the package.
 
 ## Usage
 
 Most basic usage:
 ```jsx
 import React from "react";
-import DatePicker from "react-datepicker";
+import DatePicker from "react-datepicker-clean";
 
 class Example extends React.Component {
   constructor(props) {
@@ -53,7 +53,7 @@ name | type | description
 name | type | default value | description 
 --- | --- | --- | ---
 `weekStart` | number<0 \| 1 \| 2 \| 3 \| 4 \| 5 \| 6> | `0` | Indicates which day is the first day of the week. `0` is Sunday, `6` is Saturday.
-`weekHoliday` | number<-1 \| 0 \| 1 \| 2 \| 3 \| 4 \| 5 \| 6 | `0`> | Indicates which date that should be designated weekly holiday (default red number instead of black). `0` is Sunday, `6` is Saturday. Set to `-1` to disable this option.
+`weekHoliday` | number<-1 \| 0 \| 1 \| 2 \| 3 \| 4 \| 5 \| 6 | `0` | Indicates which date that should be designated weekly holiday (default red number instead of black). `0` is Sunday, `6` is Saturday. Set to `-1` to disable this option.
 `showWeekNumber` | boolean | `true` | Set to `false` to hide week numbers.
 `multiChoice` | boolean | `false` | Set to `true` if the user should be able to choose more than one date.
 `multiSpan` | boolean | `false` | Set to `true` to make the choose a span of dates instead of multiple single dates. Disabled if `multiChoice` is set ti `false`.
