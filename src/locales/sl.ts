@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Slovenian',
+  name: 'Slovenski Jezik, Slovenščina',
   code: 'sl',
   weekdayNames: [
     'Ned.',

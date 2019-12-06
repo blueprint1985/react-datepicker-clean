@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Romanian',
+  name: 'Română',
   code: 'ro',
   weekdayNames: [
     'Dum',

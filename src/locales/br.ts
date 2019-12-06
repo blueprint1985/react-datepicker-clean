@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Breton',
+  name: 'Brezhoneg',
   code: 'br',
   weekdayNames: [
     'Sul',

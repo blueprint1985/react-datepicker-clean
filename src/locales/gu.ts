@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Gujarati',
+  name: 'ગુજરાતી',
   code: 'gu',
   weekdayNames: [
     'રવિ',

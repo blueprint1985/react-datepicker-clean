@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Vietnamese',
+  name: 'Tiếng Việt',
   code: 'vi',
   weekdayNames: [
     'Cn',

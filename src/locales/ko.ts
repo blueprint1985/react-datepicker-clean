@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Korean',
+  name: '한국어',
   code: 'ko',
   weekdayNames: [
     '일',

@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Faroese',
+  name: 'Føroyskt',
   code: 'fo',
   weekdayNames: [
     'Sun',

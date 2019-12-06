@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Swahili',
+  name: 'Kiswahili',
   code: 'sw',
   weekdayNames: [
     'Jpl',

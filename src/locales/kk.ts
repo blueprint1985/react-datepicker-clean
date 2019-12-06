@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Kazakh',
+  name: 'Қазақ Тілі',
   code: 'kk',
   weekdayNames: [
     'Жек',

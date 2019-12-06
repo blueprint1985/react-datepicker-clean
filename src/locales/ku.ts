@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Central Kurdish',
+  name: 'Kurdî, کوردی‎',
   code: 'ku',
   weekdayNames: [
     'یه‌كشه‌م',

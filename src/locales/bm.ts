@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Bambara',
+  name: 'Bamanankan',
   code: 'bm',
   weekdayNames: [
     'Kar',

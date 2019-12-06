@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Croatian',
+  name: 'Hrvatski Jezik',
   code: 'hr',
   weekdayNames: [
     'Ned.',

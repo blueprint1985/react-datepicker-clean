@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Myanmar',
+  name: 'ဗမာစာ',
   code: 'my',
   weekdayNames: [
     'နွေ',

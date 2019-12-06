@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Tajik (Cyrillic)',
+  name: 'Тоҷикӣ, Toçikī, تاجیکی‎',
   code: 'tg',
   weekdayNames: [
     'Яшб',

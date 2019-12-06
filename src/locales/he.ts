@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Hebrew',
+  name: 'עברית',
   code: 'he',
   weekdayNames: [
     'א׳',

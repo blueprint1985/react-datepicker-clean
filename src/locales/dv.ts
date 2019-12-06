@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Divehi',
+  name: 'ދިވެހި',
   code: 'dv',
   weekdayNames: [
     'އާދި',

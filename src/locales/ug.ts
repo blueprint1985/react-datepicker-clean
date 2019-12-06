@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Uyghur',
+  name: 'ئۇيغۇرچە‎, Uyghurche',
   code: 'ug',
   weekdayNames: [
     'يە',

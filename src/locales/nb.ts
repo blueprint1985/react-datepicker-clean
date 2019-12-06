@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Norwegian (Bokmal)',
+  name: 'Norsk Bokmål',
   code: 'nb',
   weekdayNames: [
     'Sø.',

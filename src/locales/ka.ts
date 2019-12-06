@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Georgian',
+  name: 'ქართული',
   code: 'ka',
   weekdayNames: [
     'კვი',

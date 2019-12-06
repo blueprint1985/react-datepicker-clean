@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Maltese',
+  name: 'Malti',
   code: 'mt',
   weekdayNames: [
     'Ħad',

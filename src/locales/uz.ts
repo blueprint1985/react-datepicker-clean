@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Uzbek (Latin)',
+  name: 'Oʻzbek, Ўзбек, أۇزبېك‎',
   code: 'uz',
   weekdayNames: [
     'Якш',

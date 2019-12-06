@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Turkish',
+  name: 'Türkçe',
   code: 'tr',
   weekdayNames: [
     'Paz',

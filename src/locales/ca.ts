@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Catalan',
+  name: 'Català, Valencià',
   code: 'ca',
   weekdayNames: [
     'Dg.',

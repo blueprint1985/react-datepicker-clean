@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Tibetan',
+  name: 'བོད་ཡིག',
   code: 'bo',
   weekdayNames: [
     'ཉི་མ་',

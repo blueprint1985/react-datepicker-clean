@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Khmer',
+  name: 'ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ',
   code: 'km',
   weekdayNames: [
     'អា',

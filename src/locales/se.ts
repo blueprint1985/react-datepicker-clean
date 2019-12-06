@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Sami (Northern)',
+  name: 'Davvisámegiella',
   code: 'se',
   weekdayNames: [
     'Sotn',

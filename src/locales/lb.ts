@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Luxembourgish',
+  name: 'Lëtzebuergesch',
   code: 'lb',
   weekdayNames: [
     'So.',

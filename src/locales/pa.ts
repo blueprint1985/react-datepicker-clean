@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Punjabi',
+  name: 'ਪੰਜਾਬੀ, پنجابی‎',
   code: 'pa',
   weekdayNames: [
     'ਐਤ',

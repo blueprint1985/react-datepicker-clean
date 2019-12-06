@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Armenian',
+  name: 'Հայերեն',
   code: 'hy',
   weekdayNames: [
     'Կրկ',

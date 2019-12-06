@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Chuvash',
+  name: 'Чӑваш Чӗлхи',
   code: 'cv',
   weekdayNames: [
     'Выр',

@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Hindi',
+  name: 'हिन्दी, हिंदी',
   code: 'hi',
   weekdayNames: [
     'रवि',

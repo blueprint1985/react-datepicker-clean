@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Galician',
+  name: 'Galego',
   code: 'gl',
   weekdayNames: [
     'Dom.',

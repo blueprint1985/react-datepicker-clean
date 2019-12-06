@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Scottish Gaelic',
+  name: 'Gàidhlig',
   code: 'gd',
   weekdayNames: [
     'Did',

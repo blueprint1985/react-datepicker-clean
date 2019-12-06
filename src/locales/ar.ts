@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Arabic',
+  name: 'العربية',
   code: 'ar',
   weekdayNames: [
     'أحد',

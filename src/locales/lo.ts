@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Lao',
+  name: 'ພາສາລາວ',
   code: 'lo',
   weekdayNames: [
     'ທິດ',

@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Irish',
+  name: 'Gaeilge',
   code: 'ga',
   weekdayNames: [
     'Dom',

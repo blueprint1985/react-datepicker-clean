@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Estonian',
+  name: 'Eesti, Eesti Keel',
   code: 'et',
   weekdayNames: [
     'P',

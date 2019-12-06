@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Esperanto',
+  name: 'Esperanto',
   code: 'eo',
   weekdayNames: [
     'Dim',

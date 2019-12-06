@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Malayalam',
+  name: 'മലയാളം',
   code: 'ml',
   weekdayNames: [
     'ഞായർ',

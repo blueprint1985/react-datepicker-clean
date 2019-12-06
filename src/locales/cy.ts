@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Welsh',
+  name: 'Cymraeg',
   code: 'cy',
   weekdayNames: [
     'Sul',

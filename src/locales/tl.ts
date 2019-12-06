@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Tagalog',
+  name: 'Wikang Tagalog',
   code: 'tl',
   weekdayNames: [
     'Lin',

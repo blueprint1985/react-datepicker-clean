@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Greek',
+  name: 'Ελληνικά',
   code: 'el',
   weekdayNames: [
     'Κυρ',

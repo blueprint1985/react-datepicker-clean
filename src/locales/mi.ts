@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Maori',
+  name: 'Te Reo Māori',
   code: 'mi',
   weekdayNames: [
     'Ta',

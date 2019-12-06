@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Malay',
+  name: 'Bahasa Melayu, بهاس ملايو‎',
   code: 'ms',
   weekdayNames: [
     'Ahd',

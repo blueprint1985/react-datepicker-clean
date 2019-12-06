@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Indonesian',
+  name: 'Bahasa Indonesia',
   code: 'id',
   weekdayNames: [
     'Min',

@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Latvian',
+  name: 'Latviešu Valoda',
   code: 'lv',
   weekdayNames: [
     'Sv',

@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Spanish',
+  name: 'Español',
   code: 'es',
   weekdayNames: [
     'Dom.',

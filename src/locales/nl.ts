@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Dutch',
+  name: 'Nederlands, Vlaams',
   code: 'nl',
   weekdayNames: [
     'Zo.',

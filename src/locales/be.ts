@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Belarusian',
+  name: 'Беларуская Мова',
   code: 'be',
   weekdayNames: [
     'Нд',

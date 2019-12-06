@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Persian',
+  name: 'فارسی',
   code: 'fa',
   weekdayNames: [
     'یک\u200Cشنبه',

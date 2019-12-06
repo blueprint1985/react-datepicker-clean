@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Hungarian',
+  name: 'Magyar',
   code: 'hu',
   weekdayNames: [
     'Vas',

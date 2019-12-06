@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Lithuanian',
+  name: 'Lietuvių Kalba',
   code: 'lt',
   weekdayNames: [
     'Sek',

@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Thai',
+  name: 'ไทย',
   code: 'th',
   weekdayNames: [
     'อาทิตย์',

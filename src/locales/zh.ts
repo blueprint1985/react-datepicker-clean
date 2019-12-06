@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Chinese (Simplified)',
+  name: '中文 (Zhōngwén), 汉语, 漢語',
   code: 'zh',
   weekdayNames: [
     '周日',

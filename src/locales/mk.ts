@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Macedonian',
+  name: 'Македонски Јазик',
   code: 'mk',
   weekdayNames: [
     'Нед',

@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Sindhi',
+  name: 'सिन्धी, سنڌي، سندھی‎',
   code: 'sd',
   weekdayNames: [
     'آچر',

@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Polish',
+  name: 'Język Polski, Polszczyzna',
   code: 'pl',
   weekdayNames: [
     'Ndz',

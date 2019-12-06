@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Basque',
+  name: 'Euskara, Euskera',
   code: 'eu',
   weekdayNames: [
     'Ig.',

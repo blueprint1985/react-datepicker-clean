@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Japanese',
+  name: '日本語 (にほんご)',
   code: 'ja',
   weekdayNames: [
     '日',

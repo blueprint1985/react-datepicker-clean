@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Mongolian (Cyrillic)',
+  name: 'Монгол Хэл',
   code: 'mn',
   weekdayNames: [
     'Ням',

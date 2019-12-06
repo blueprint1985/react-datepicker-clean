@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Azerbaijani (Latin)',
+  name: 'Azərbaycan Dili',
   code: 'az',
   weekdayNames: [
     'Baz',

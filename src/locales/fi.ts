@@ -1,5 +1,6 @@
 export const lang = {
   language: 'Finnish',
+  name: 'Suomi, Suomen Kieli',
   code: 'fi',
   weekdayNames: [
     'Su',
