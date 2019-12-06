@@ -6,3 +6,5 @@ helpers/
 styles/
 index.d.ts
 index.js
+
+!src/**
