@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Korean',
+    name: '한국어',
     code: 'ko',
     weekdayNames: [
         '일',

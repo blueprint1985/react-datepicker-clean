@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Mongolian (Cyrillic)',
+    name: 'Монгол Хэл',
     code: 'mn',
     weekdayNames: [
         'Ням',

@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Central Kurdish',
+    name: 'Kurdî, کوردی‎',
     code: 'ku',
     weekdayNames: [
         'یه‌كشه‌م',

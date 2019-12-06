@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Serbian (Latin)',
+    name: 'Српски Језик',
     code: 'sr',
     weekdayNames: [
         'Ned.',

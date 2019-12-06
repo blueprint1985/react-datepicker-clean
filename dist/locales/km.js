@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Khmer',
+    name: 'ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ',
     code: 'km',
     weekdayNames: [
         'អា',

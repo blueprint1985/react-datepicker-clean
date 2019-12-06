@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Tajik (Cyrillic)',
+    name: 'Тоҷикӣ, Toçikī, تاجیکی‎',
     code: 'tg',
     weekdayNames: [
         'Яшб',

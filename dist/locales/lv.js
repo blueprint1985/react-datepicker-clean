@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Latvian',
+    name: 'Latviešu Valoda',
     code: 'lv',
     weekdayNames: [
         'Sv',

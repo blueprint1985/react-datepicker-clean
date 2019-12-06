@@ -1,6 +1,7 @@
 export declare const translations: {
     'af': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -8,6 +9,7 @@ export declare const translations: {
     };
     'ar': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -15,6 +17,7 @@ export declare const translations: {
     };
     'az': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -22,6 +25,7 @@ export declare const translations: {
     };
     'be': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -29,6 +33,7 @@ export declare const translations: {
     };
     'bg': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -36,6 +41,7 @@ export declare const translations: {
     };
     'bm': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -43,6 +49,7 @@ export declare const translations: {
     };
     'bn': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -50,6 +57,7 @@ export declare const translations: {
     };
     'bo': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -57,6 +65,7 @@ export declare const translations: {
     };
     'br': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -64,6 +73,7 @@ export declare const translations: {
     };
     'bs': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -71,6 +81,7 @@ export declare const translations: {
     };
     'ca': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -78,6 +89,7 @@ export declare const translations: {
     };
     'cs': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -85,6 +97,7 @@ export declare const translations: {
     };
     'cv': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -92,6 +105,7 @@ export declare const translations: {
     };
     'cy': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -99,6 +113,7 @@ export declare const translations: {
     };
     'da': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -106,6 +121,7 @@ export declare const translations: {
     };
     'de': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -113,6 +129,7 @@ export declare const translations: {
     };
     'dv': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -120,6 +137,7 @@ export declare const translations: {
     };
     'el': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -127,6 +145,7 @@ export declare const translations: {
     };
     'en': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -134,6 +153,7 @@ export declare const translations: {
     };
     'eo': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -141,6 +161,7 @@ export declare const translations: {
     };
     'es': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -148,6 +169,7 @@ export declare const translations: {
     };
     'et': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -155,6 +177,7 @@ export declare const translations: {
     };
     'eu': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -162,6 +185,7 @@ export declare const translations: {
     };
     'fa': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -169,6 +193,7 @@ export declare const translations: {
     };
     'fi': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -176,6 +201,7 @@ export declare const translations: {
     };
     'fo': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -183,6 +209,7 @@ export declare const translations: {
     };
     'fr': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -190,6 +217,7 @@ export declare const translations: {
     };
     'fy': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -197,6 +225,7 @@ export declare const translations: {
     };
     'ga': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -204,6 +233,7 @@ export declare const translations: {
     };
     'gd': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -211,6 +241,7 @@ export declare const translations: {
     };
     'gl': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -218,6 +249,7 @@ export declare const translations: {
     };
     'gu': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -225,6 +257,7 @@ export declare const translations: {
     };
     'he': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -232,6 +265,7 @@ export declare const translations: {
     };
     'hi': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -239,6 +273,7 @@ export declare const translations: {
     };
     'hr': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -246,6 +281,7 @@ export declare const translations: {
     };
     'hu': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -253,6 +289,7 @@ export declare const translations: {
     };
     'hy': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -260,6 +297,7 @@ export declare const translations: {
     };
     'id': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -267,6 +305,7 @@ export declare const translations: {
     };
     'is': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -274,6 +313,7 @@ export declare const translations: {
     };
     'it': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -281,6 +321,7 @@ export declare const translations: {
     };
     'ja': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -288,6 +329,7 @@ export declare const translations: {
     };
     'jv': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -295,6 +337,7 @@ export declare const translations: {
     };
     'ka': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -302,6 +345,7 @@ export declare const translations: {
     };
     'kk': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -309,6 +353,7 @@ export declare const translations: {
     };
     'km': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -316,6 +361,7 @@ export declare const translations: {
     };
     'kn': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -323,6 +369,7 @@ export declare const translations: {
     };
     'ko': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -330,6 +377,7 @@ export declare const translations: {
     };
     'ku': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -337,6 +385,7 @@ export declare const translations: {
     };
     'ky': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -344,6 +393,7 @@ export declare const translations: {
     };
     'lb': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -351,6 +401,7 @@ export declare const translations: {
     };
     'lo': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -358,6 +409,7 @@ export declare const translations: {
     };
     'lt': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -365,6 +417,7 @@ export declare const translations: {
     };
     'lv': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -372,6 +425,7 @@ export declare const translations: {
     };
     'mi': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -379,6 +433,7 @@ export declare const translations: {
     };
     'mk': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -386,6 +441,7 @@ export declare const translations: {
     };
     'ml': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -393,6 +449,7 @@ export declare const translations: {
     };
     'mn': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -400,6 +457,7 @@ export declare const translations: {
     };
     'mr': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -407,6 +465,7 @@ export declare const translations: {
     };
     'ms': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -414,6 +473,7 @@ export declare const translations: {
     };
     'mt': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -421,6 +481,7 @@ export declare const translations: {
     };
     'my': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -428,6 +489,7 @@ export declare const translations: {
     };
     'nb': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -435,6 +497,7 @@ export declare const translations: {
     };
     'ne': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -442,6 +505,7 @@ export declare const translations: {
     };
     'nl': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -449,6 +513,7 @@ export declare const translations: {
     };
     'nn': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -456,6 +521,7 @@ export declare const translations: {
     };
     'pa': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -463,6 +529,7 @@ export declare const translations: {
     };
     'pl': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -470,6 +537,7 @@ export declare const translations: {
     };
     'pt': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -477,6 +545,7 @@ export declare const translations: {
     };
     'ro': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -484,6 +553,7 @@ export declare const translations: {
     };
     'ru': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -491,6 +561,7 @@ export declare const translations: {
     };
     'sd': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -498,6 +569,7 @@ export declare const translations: {
     };
     'se': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -505,6 +577,7 @@ export declare const translations: {
     };
     'si': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -512,6 +585,7 @@ export declare const translations: {
     };
     'sk': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -519,6 +593,7 @@ export declare const translations: {
     };
     'sl': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -526,6 +601,7 @@ export declare const translations: {
     };
     'sq': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -533,6 +609,7 @@ export declare const translations: {
     };
     'sr': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -540,6 +617,7 @@ export declare const translations: {
     };
     'ss': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -547,6 +625,7 @@ export declare const translations: {
     };
     'sv': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -554,6 +633,7 @@ export declare const translations: {
     };
     'sw': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -561,6 +641,7 @@ export declare const translations: {
     };
     'ta': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -568,6 +649,7 @@ export declare const translations: {
     };
     'te': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -575,6 +657,7 @@ export declare const translations: {
     };
     'tg': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -582,6 +665,7 @@ export declare const translations: {
     };
     'th': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -589,6 +673,7 @@ export declare const translations: {
     };
     'tl': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -596,6 +681,7 @@ export declare const translations: {
     };
     'tr': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -603,6 +689,7 @@ export declare const translations: {
     };
     'ug': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -610,6 +697,7 @@ export declare const translations: {
     };
     'uk': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -617,6 +705,7 @@ export declare const translations: {
     };
     'ur': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -624,6 +713,7 @@ export declare const translations: {
     };
     'uz': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -631,6 +721,7 @@ export declare const translations: {
     };
     'vi': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -638,6 +729,7 @@ export declare const translations: {
     };
     'yo': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];
@@ -645,6 +737,7 @@ export declare const translations: {
     };
     'zh': {
         language: string;
+        name: string;
         code: string;
         weekdayNames: string[];
         monthNames: string[];

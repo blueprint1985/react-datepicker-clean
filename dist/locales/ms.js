@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Malay',
+    name: 'Bahasa Melayu, بهاس ملايو‎',
     code: 'ms',
     weekdayNames: [
         'Ahd',

@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Azerbaijani (Latin)',
+    name: 'Azərbaycan Dili',
     code: 'az',
     weekdayNames: [
         'Baz',

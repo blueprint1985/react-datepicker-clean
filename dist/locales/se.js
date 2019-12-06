@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Sami (Northern)',
+    name: 'Davvisámegiella',
     code: 'se',
     weekdayNames: [
         'Sotn',

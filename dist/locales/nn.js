@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Norwegian (Nynorsk)',
+    name: 'Norsk Nynorsk',
     code: 'nn',
     weekdayNames: [
         'Sun',

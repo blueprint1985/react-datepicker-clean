@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Scottish Gaelic',
+    name: 'Gàidhlig',
     code: 'gd',
     weekdayNames: [
         'Did',

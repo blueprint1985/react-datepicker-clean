@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Javanese',
+    name: 'ꦧꦱꦗꦮ, Basa Jawa',
     code: 'jv',
     weekdayNames: [
         'Min',

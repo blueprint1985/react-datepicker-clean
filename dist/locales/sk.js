@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Slovak',
+    name: 'Slovenčina, Slovenský Jazyk',
     code: 'sk',
     weekdayNames: [
         'Ne',

@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Maori',
+    name: 'Te Reo Māori',
     code: 'mi',
     weekdayNames: [
         'Ta',

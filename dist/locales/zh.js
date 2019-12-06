@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lang = {
     language: 'Chinese (Simplified)',
+    name: '中文 (Zhōngwén), 汉语, 漢語',
     code: 'zh',
     weekdayNames: [
         '周日',
