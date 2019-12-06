@@ -1,3 +1,6 @@
+## Version 2.2.2
+- CHANGED: License holder.
+
 ## Version 2.2.1
 - FIX: Fix styles files inclusion path.
 
