@@ -1,6 +1,6 @@
 {
   "name": "react-datepicker-clean",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "A clean datepicker for react",
   "main": "index.js",
   "scripts": {
