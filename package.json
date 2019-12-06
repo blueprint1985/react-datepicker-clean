@@ -1,0 +1,32 @@
+{
+  "name": "react-datepicker-clean",
+  "version": "1.0.0",
+  "description": "A clean datepicker for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "tsc && echo 'Finished building NPM package'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueprint1985/react-datepicker-clean.git"
+  },
+  "keywords": [
+    "datepicker",
+    "react",
+    "date",
+    "picker"
+  ],
+  "author": "Martin Björling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blueprint1985/react-datepicker-clean/issues"
+  },
+  "homepage": "https://github.com/blueprint1985/react-datepicker-clean#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.15",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typescript": "^3.7.3"
+  }
+}
