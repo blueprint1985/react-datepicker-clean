@@ -2,9 +2,9 @@ import React from 'react';
 
 import LocaleModel from '../models/locale';
 import { translations } from '../locales/i18n';
-import Utils from '../utils';
+import Utils from '../helpers/utils';
 
-import './calendar-header.css';
+import './styles/calendar-header.css';
 
 interface CalendarHeaderProps {
   stepMonth: Function;

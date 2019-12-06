@@ -5,7 +5,7 @@ import { WeekDaysModel } from '../models/week-days';
 import GridHeader from './grid-header';
 import GridBody from './grid-body';
 
-import './calendar-body.css';
+import '../styles/calendar-body.css';
 
 interface CalendarBodyProps {
   onDateClick: Function;

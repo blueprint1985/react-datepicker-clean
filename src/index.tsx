@@ -3,11 +3,11 @@ import * as React from 'react';
 import DayModel from './models/day';
 import WeekModel from './models/week';
 import { WeekDaysModel } from './models/week-days';
-import Utils from './utils';
+import Utils from './helpers/utils';
 import CalendarHeader from './components/calendar-header';
 import CalendarBody from './components/calendar-body';
 
-import './index.css';
+import './styles/index.css';
 
 interface BaseProps {
   onDateClick: Function;

@@ -1,1 +1,8 @@
 node_modules/
+components/
+locales/
+models/
+helpers/
+styles/
+index.d.ts
+index.js

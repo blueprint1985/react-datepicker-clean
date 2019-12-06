@@ -4,7 +4,7 @@ import WeekModel from '../models/week';
 import { WeekDaysModel } from '../models/week-days';
 import Day from './day';
 
-import './week.css';
+import './styles/week.css';
 import DayModel from '../models/day';
 
 interface WeekProps {

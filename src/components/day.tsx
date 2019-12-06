@@ -2,7 +2,7 @@ import React from 'react';
 
 import DayModel from '../models/day';
 
-import './day.css';
+import './styles/day.css';
 
 interface DayProps {
   onDateClick: Function;

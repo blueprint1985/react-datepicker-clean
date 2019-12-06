@@ -1,13 +1,12 @@
 {
   "name": "react-datepicker-clean",
-  "version": "2.1.0",
+  "version": "2.0.0",
   "description": "A clean datepicker for react",
-  "main": "./dist/index.js",
+  "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "sh ./scripts/build.sh",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "copy-css": "copyfiles -u 1 ./src/**/*.css ./dist",
-    "prepare": "tsc && copyfiles -u 1 ./src/**/*.css ./dist && echo 'Finished building NPM package'"
+    "prepare": "sh ./scripts/prepare.sh"
   },
   "repository": {
     "type": "git",

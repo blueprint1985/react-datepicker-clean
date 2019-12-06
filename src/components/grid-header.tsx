@@ -3,9 +3,9 @@ import React from 'react';
 import LocaleModel from '../models/locale';
 import { translations } from '../locales/i18n';
 import { WeekDaysModel } from '../models/week-days';
-import Utils from '../utils';
+import Utils from '../helpers/utils';
 
-import './grid-header.css';
+import './styles/grid-header.css';
 
 interface GridHeaderProps {
   weekStart: WeekDaysModel;
