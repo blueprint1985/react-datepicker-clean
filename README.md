@@ -20,7 +20,7 @@ import DatePicker from "react-datepicker";
 class Example extends React.Component {
   constructor(props) {
     this.state = {
-      dates | []
+      dates: []
     };
   }
 
@@ -61,8 +61,7 @@ name | type | default value | description
 `chosenDates` | Array<Date \| string \| number> | `[]` | Any dates that should be chosen already. Can use same `state` element array that is updated in `onDateClick`. Elements can be Date object, [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) date string or UNIX timestamp.
 `blockedDates` | Array<Date \| string \| number> | `[]` | Any dates that should be blocked from selecting. Elements can be Date object, [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) date string or UNIX timestamp.
 `holidayDates` | Array<Date \| string \| number> | `[]` | Any holidays that should be marked as holiday (default red number instead of black). Elements can be Date object, [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) date string or UNIX timestamp.
-`locale` | string | `'en'` | Locale to use. List of available locales can be found [here](https://github.com/blueprint1985/react-datepicker-clean/docs/locales.md).
-
+`locale` | string | `'en'` | Locale to use. List of available locales can be found [here](https://github.com/blueprint1985/react-datepicker-clean/docs/locales.md). Use the value in the "Code" column.
 ## ToDo:
 
 * Add custom styling properties.
