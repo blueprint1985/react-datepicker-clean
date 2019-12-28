@@ -12,6 +12,7 @@ interface CalendarHeaderProps {
   changeYear: Function;
   month: number;
   year: number;
+  yearsDiff: number;
   allowBefore: boolean;
   locale: string;
 }
@@ -28,12 +29,12 @@ const CalendarHeader: React.FC<CalendarHeaderProps> = (props: CalendarHeaderProp
   );
   
   const prevClass: string = blockGoBack ? "change-prev blocked" : "change-prev";
-  const startYear: number = (props.allowBefore) ? props.year - 100 : today.getFullYear();
+  const startYear: number = (props.allowBefore) ? props.year - props.yearsDiff : today.getFullYear();
   const startMonth: number = (!props.allowBefore && today.getFullYear() >= props.year) ? today.getMonth() : 0;
   const years: Array<number> = [];
   const months: Array<number> = [];
   
-  for (let i: number = startYear; i <= props.year + 100; i++) {
+  for (let i: number = startYear; i <= props.year + props.yearsDiff; i++) {
     years.push(i);
   }
 

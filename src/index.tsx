@@ -20,6 +20,7 @@ interface BaseProps {
   chosenDates: Array<Date | string | number>;
   blockedDates: Array<Date | string | number>;
   holidayDates: Array<Date | string | number>;
+  yearsDiff: number;
   locale: string;
 }
 
@@ -35,7 +36,7 @@ interface BaseState {
 }
 
 type InputDate = Date | string | number;
-type PropDates = Array<InputDate>;
+type PropDates = Array<InputDate | Array<InputDate>>;
 
 class DatePicker extends React.Component<BaseProps, BaseState> {
   static defaultProps: Partial<BaseProps> = {
@@ -48,6 +49,7 @@ class DatePicker extends React.Component<BaseProps, BaseState> {
     chosenDates: [],
     blockedDates: [],
     holidayDates: [],
+    yearsDiff: 100,
     locale: 'en',
   }
 
@@ -64,6 +66,7 @@ class DatePicker extends React.Component<BaseProps, BaseState> {
 
   initDatesArray(type: string): Array<Date> {
     let propDates: PropDates;
+    let parsedDates: Array<InputDate> = [];
 
     switch (type) {
       case 'chosenDates': propDates = this.props.chosenDates; break;
@@ -73,7 +76,15 @@ class DatePicker extends React.Component<BaseProps, BaseState> {
       default: propDates = []; break;
     }
 
-    const returnDates: Array<Date> = propDates.map((date: InputDate) => {
+    propDates.forEach((dateOrArray) => {
+      if (dateOrArray instanceof Array) {
+        parsedDates = parsedDates.concat(Utils.createDateArray(dateOrArray[0], dateOrArray[1]));
+      } else {
+        parsedDates.push(dateOrArray);
+      }
+    });
+
+    const returnDates: Array<Date> = parsedDates.map((date: InputDate) => {
       return Utils.createDate(date);
     });
 
@@ -374,6 +385,7 @@ class DatePicker extends React.Component<BaseProps, BaseState> {
           month={this.state.currentMonth} 
           year={this.state.currentYear}
           allowBefore={this.props.allowBefore}
+          yearsDiff={this.props.yearsDiff}
           locale={this.props.locale}
         />
         <CalendarBody

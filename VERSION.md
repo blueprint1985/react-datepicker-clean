@@ -1,3 +1,7 @@
+## Version 2.3.0
+- NEW: Possibility to use array with two dates to mark chosen, blocked or holidays.
+- NEW: Functionality to limit the number of years to chose in the calendar header.
+
 ## Version 2.2.2
 - CHANGED: License holder.
 

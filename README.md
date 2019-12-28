@@ -58,9 +58,10 @@ name | type | default value | description
 `multiChoice` | boolean | `false` | Set to `true` if the user should be able to choose more than one date.
 `multiSpan` | boolean | `false` | Set to `true` to make the choose a span of dates instead of multiple single dates. Disabled if `multiChoice` is set ti `false`.
 `allowBefore` | boolean | `false` | Set to `true` if the user should be allowed to choose dates before the current date.
-`chosenDates` | Array<Date \| string \| number> | `[]` | Any dates that should be chosen already. Can use same `state` element array that is updated in `onDateClick`. Elements can be Date object, [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) date string or UNIX timestamp.
-`blockedDates` | Array<Date \| string \| number> | `[]` | Any dates that should be blocked from selecting. Elements can be Date object, [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) date string or UNIX timestamp.
-`holidayDates` | Array<Date \| string \| number> | `[]` | Any holidays that should be marked as holiday (default red number instead of black). Elements can be Date object, [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) date string or UNIX timestamp.
+`chosenDates` | Array<Date \| string \| number> | `[]` | Any dates that should be chosen already. Can use same `state` element array that is updated in `onDateClick`. Elements can be Date object, [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) date string, UNIX timestamp or an array containing two dates. If the element is an array of two dates, all dates between (and including) the two dates will be marked.
+`blockedDates` | Array<Date \| string \| number> | `[]` | Any dates that should be blocked from selecting. Elements can be Date object, [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) date string, UNIX timestamp or an array containing two dates. If the element is an array of two dates, all dates between (and including) the two dates will be marked.
+`holidayDates` | Array<Date \| string \| number> | `[]` | Any holidays that should be marked as holiday (default red number instead of black). Elements can be Date object, [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) date string, UNIX timestamp or an array containing two dates. If the element is an array of two dates, all dates between (and including) the two dates will be marked.
+`yearsDiff` | number | `100` | How many years should be visible in years list (before if `allowBefore` is set to `true` and) after the current year.
 `locale` | string | `'en'` | Locale to use. List of available locales can be found [here](https://github.com/blueprint1985/react-datepicker-clean/blob/master/docs/locales.md). Use the value in the "Code" column.
 ## ToDo:
 
